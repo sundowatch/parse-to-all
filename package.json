@@ -1,0 +1,31 @@
+{
+  "name": "parse-to-all",
+  "version": "1.0.1",
+  "description": "Parse to all possible outputs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sundowatch/parse-to-all.git"
+  },
+  "keywords": [
+    "parse",
+    "parseAll",
+    "parseInt",
+    "parseFloat",
+    "string",
+    "number",
+    "integer",
+    "array",
+    "boolean",
+    "object"
+  ],
+  "author": ["Ümit Tunç", "İbrahim Sanduvac"],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sundowatch/parse-to-all/issues"
+  },
+  "homepage": "https://github.com/sundowatch/parse-to-all"
+}
